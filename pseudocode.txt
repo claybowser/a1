@@ -1,0 +1,27 @@
+Author : Clay Bowser
+Date Last Modified : 2020/09/19
+Title : Assignment #1 part 1 : Hipster's Vinyl Console Software Pseudocode
+
+Customer Name
+Delivery Cost
+Purchase Cost
+Total Cost
+
+Prompt User for Customer Name
+-Validate User input
+Prompt User for distance in km required for delivery-
+-Validate User input
+Prompt User for cost input of total records purchased
+-Validate User input
+Calculate delivery cost @ 15$ per kilometer (km * 15)
+Calculate total including tax rate of 14% ([delivery cost + purchase cost]*1.14)
+Display information to User
+
+Calculation: (2.69/(1-(1+2.69)^(-52*4)))*23500
+
+"Hipster's Local Vinyl Records - Customer Order Details"
+
+"Purchase summary for " + User
+"Delivery Cost: $" + DeliveryCost
+"Purchase Cost: $" + PurchaseCost
+"Total Cost: $" + TotalCost
