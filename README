@@ -13,3 +13,19 @@ You can hand in assignments early and, later, hand in updated versions. I will a
 
 Evaluation:
 To ensure the greatest chance of success on this assignment, be sure to check the marking rubric contained at the end of this document or in Brightspace. The rubric contains the criteria your instructor will be assessing when marking your assignment.
+
+Program 1 – Hipster's Local Vinyl Records
+
+Hipster’s Local Vinyl Records sell and hand-deliver vinyl records to their customers. Delivery is charged at a rate of $15 per kilometer. 
+All purchases are subject to a 14% sales tax. 
+
+Because this store loves retro technology, you have been asked to develop a console application solution that will enable the company’s retail staff to calculate receipts. Begin by designing your solution to this problem in pseudocode, which will be submitted along with the program. The program user must be able to input the customer's name, the number of kilometers distance, and the cost of any records purchased. Once the input is provided, the program will display the customer's name and three calculated costs: delivery cost, records cost (plus tax) and total cost, as shown below.
+Examples and Testing
+In the section below you will be presented with at least one screenshot of a successful execution of a sample solution to the program, which should help demonstrate how your input/output on the program should work. In addition to the sample values used in the screenshot(s), additional testing values are given in a chart along with the output values that they should produce. You can expect your instructor to grade your assignment by using all of these listed input values at the very least, but keep in mind that additional values may also be used as well. In other words, you should thoroughly test your code before submitting!
+Sample Output - Make sure your program can output data exactly as shown below.
+ 
+Other testing values;
+Distance (km)	Records Cost	Delivery Cost	Purchase Cost	Total Cost
+12	$259.99	$180.00	$296.39	$476.39
+7.5	$129.95	$112.50	$148.14	$260.64
+ 
